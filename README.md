@@ -9,3 +9,19 @@ im making an easy to follow list of steps to follow and parts to buy to where yo
 (write good things first then why not good) 
 
 
+
+
+
+Parts. 
+what i need for gimbal:
+3 steper motors ( i think nema 17 )
+3 step drivers ( i think DRV8825 )
+joystick to controll ( Hall/TMR Electromagnetic Joystick )
+external battery ( 4 18650s runing maybe 2s 2p for testing ) 
+bearing 65mm-50mm bearing ( Outer Diameter: 6810RS - 50x65x7 mm )
+1kg blue petg
+esp32
+PD60 60W 6A Lipo Balance Charger
+balcance wires.
+xt60 plug.
+18650 battery ( cell supply ) 
