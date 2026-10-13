@@ -14,14 +14,15 @@ im making an easy to follow list of steps to follow and parts to buy to where yo
 
 Parts. 
 what i need for gimbal:
-3 steper motors ( i think nema 17 )
-3 step drivers ( i think DRV8825 )
+3 steper motors ( i think nema 17 ) https://www.aliexpress.com/item/1005007421082075.html? 
+3 step drivers ( i think DRV8825 ) https://www.aliexpress.com/item/1005006199405206.html?
 joystick to controll ( Hall/TMR Electromagnetic Joystick )
 external battery ( 4 18650s runing maybe 2s 2p for testing ) 
 bearing 65mm-50mm bearing ( Outer Diameter: 6810RS - 50x65x7 mm )
-1kg blue petg
-esp32
+1kg blue petg https://www.pbtech.co.nz/product/INKCRL0039/Creality-CR-PETG-Filament---Black-1kg-Roll---175mm
+esp32 https://www.aliexpress.com/item/1005008771142129.html?
 PD60 60W 6A Lipo Balance Charger
-balcance wires.
-xt60 plug.
-18650 battery ( cell supply ) 
+balcance wires. 3s https://www.aliexpress.com/item/1005004996032030.html?
+xt60 plug. https://www.aliexpress.com/item/1005004951793427.html?
+18650 batteries (three) cell supply https://cell-supply.co.nz/product/lg-m50lt-21700-4800mah-15a/ 
+
